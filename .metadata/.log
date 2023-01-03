@@ -37,3 +37,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.equinox.p2.repository 2 0 2023-01-03 19:26:20.515
 !MESSAGE Using unsafe http transport to retrieve http://www.genuitec.com/updates/devstyle/ci/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-01-03 19:35:47.397
+!MESSAGE Indexed 'firmware' (23 sources, 83 headers) in 1.49 sec: 4,835 declarations; 28,535 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.006%)
